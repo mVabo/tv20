@@ -1,4 +1,4 @@
-# Teknisk oppgave - TV 2
+# TV 20
 
 ## Hvordan kjøre koden
 
@@ -54,6 +54,7 @@ Axios er et http-bibliotek som lar oss lage en instanse med baseURL slik at vi s
 
 - `html-react-parser` - Brukt for parsing av MARKUP fra breaking apiet.
 - `date-fns` - Brukt for parsing og formattering av datoer.
+- `react-helmet` - Brukt for å få lagt til tittel på hver side for bedre SEO
 
 ---
 
