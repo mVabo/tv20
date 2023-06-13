@@ -1,0 +1,5 @@
+.simplebar-scrollbar::before {
+	background: linear-gradient(90deg, orange, skyblue);
+	opacity: 1;
+	z-index: 1000;
+}
