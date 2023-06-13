@@ -17,7 +17,12 @@ const PortalSelector = () => {
 		<Stack direction="column" gap={1}>
 			<Typography level="h5">Tilgjengelige portaler</Typography>
 			<SimpleBar>
-				<Stack direction="row" alignItems="center" gap={1}>
+				<Stack
+					direction="row"
+					alignItems="center"
+					gap={1}
+					sx={{ marginBottom: 2 }}
+				>
 					{portals?.map((portal) => (
 						<Button
 							key={portal.id}
