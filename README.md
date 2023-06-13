@@ -38,6 +38,10 @@ Multi view er for de som vil ha oversikt over alle saker på tvers av alle porta
 
 ## Dependencies
 
+### [React router](https://reactrouter.com/en/main)
+
+Basic routing library for handling multiple pages inside the application.
+
 ### [@mui/joy](https://mui.com/joy-ui/getting-started/overview/)
 
 Joy-UI er et material-design basert UI-Bibliotek som gir oss veldig basice komponenter. Brukt her fordi det korter ned tiden til man har en MVP.
